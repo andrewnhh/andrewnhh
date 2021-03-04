@@ -1,5 +1,3 @@
-![counter](https://[YourEndpoint].m.pipedream.net)
-
 ### Hi there 👋
 
 <!--
