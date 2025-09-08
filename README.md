@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### My name is Andrew
 
-- 🌱 I’m currently interested in Data Science and Machine Learning
+- 🚀 Data Enthusiast | 📊 Tableau & Python | ☁️ Cloud Learner
 
-
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/andrewnhh/)
